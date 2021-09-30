@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/magdielgomez/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/joaosouz4dev">
+  <a href="https://github.com/gmz2091">
     <img src="https://img.shields.io/badge/github-3B3937.svg?&style=for-the-badge&logo=github&logoColor=white" />        
   </a>
 </p>
